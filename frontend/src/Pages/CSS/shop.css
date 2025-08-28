@@ -1,0 +1,9 @@
+.shop-page {
+  background: linear-gradient(
+    180deg,
+    #392bff 0%,     /* Hero start */
+    #ff65c6 30%,    /* Offers */
+    #fde1ff 65%,    /* Newsletter */
+    #dcd6f7 100%    /* Soft purple end */
+  );
+}
